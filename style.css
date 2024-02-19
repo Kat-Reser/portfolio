@@ -1,0 +1,62 @@
+@media (min-width: 1200px) {
+  .container-fluid {
+    max-width: 1080px;
+  }
+}
+.navbar {
+  margin-bottom: 15px;
+}
+.logo {
+  font-size: 30px;
+  margin-top: 15px;
+}
+.ml-auto {
+  margin-left: auto!important;
+}
+.button {
+  overflow: visible;
+}
+#banner {
+  min-height: 700px;
+  background-image: url(./images/2020-12-22\ 13.07.49\(1\).jpg);
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.name {
+  font-size: 24px;
+  color: rgb(133, 243, 208);
+  text-align: center;
+}
+h4 {
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.about .img-card-wrapper {
+  width: 120px;
+  max-width: 120px;
+  flex-shrink: 0;
+}
+.about .img-card {
+  background-image: url(./images/Me.jpg);
+  padding-top: calc(5 /4 * 100%);
+  background-size: cover;
+  background-position: center;
+}
+.about .text-box {
+  font-size: 0.9rem;
+}
+.hobbies .img-card-wrapper {
+  width: 120px;
+  max-width: 120px;
+  flex-shrink: 0;
+}
+.hobbies .img-card {
+  background-image: url(./images/20230823_184247.jpg);
+  padding-top: calc(5 /4 * 100%);
+  background-size: cover;
+  background-position: center;
+}
+.hobbies .text-box {
+  font-size: 0.9rem;
+}
