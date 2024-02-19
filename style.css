@@ -60,3 +60,17 @@ h4 {
 .hobbies .text-box {
   font-size: 0.9rem;
 }
+.clones {
+  font-size: 35px;
+  text-align: center;
+  color:blueviolet;
+}
+.text-center {
+margin-top: 25px;
+}
+.col-auto {
+margin-top: 25px;
+}
+.col-auto a {
+color: black;
+}
